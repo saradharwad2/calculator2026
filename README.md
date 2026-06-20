@@ -1,7 +1,7 @@
 # calculator2026
 ## adb
-s
-h
-jjrr
-t
-rinhubgbj
+-s
+-h
+-jjrr
+-t
+-rinhubgbj
